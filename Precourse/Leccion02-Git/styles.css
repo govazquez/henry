@@ -7,11 +7,15 @@ img {
 }
 
 #thirdDiv {
-  width: 500;
-  height: 600;
+  width: 500px;
+  height: 600px;
   background: blue;
   padding: 50px;
   border: 10px solid red;
+}
+
+#divClass {
+  align: left;
 }
 
 #spanId {
